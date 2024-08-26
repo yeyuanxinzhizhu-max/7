@@ -1,0 +1,4 @@
+/home/lizhi/vscode_c++/7/build/CMakeFiles/rebuild_cache.dir
+/home/lizhi/vscode_c++/7/build/CMakeFiles/edit_cache.dir
+/home/lizhi/vscode_c++/7/build/CMakeFiles/my_cmake_exe.dir
+/home/lizhi/vscode_c++/7/build/CMakeFiles/mysharedlib.dir
